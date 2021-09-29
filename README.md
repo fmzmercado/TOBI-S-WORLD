@@ -1,2 +1,4 @@
 # TOBI-S-WORLD
-BIOGRAPHY
+
+I am Tobi
+I live in the Philippines
